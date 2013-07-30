@@ -27,9 +27,11 @@ Ext.application({
     ],
 
     views: [
-        'Main'
+        'Main','moredetial'
     ],
-
+   controlls:[
+       'main'
+   ],
     icon: {
         '57': 'resources/icons/Icon.png',
         '72': 'resources/icons/Icon~ipad.png',
