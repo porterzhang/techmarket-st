@@ -29,6 +29,7 @@ Ext.application({
     views: [
         'Main','lab'
     ],
+    controlls:['lab'],
 
     icon: {
         '57': 'resources/icons/Icon.png',
@@ -53,7 +54,8 @@ Ext.application({
         Ext.fly('appLoadingIndicator').destroy();
 
         // Initialize the main view
-       Ext.Viewport.add(Ext.create('innovation.view.Main'));
+      Ext.Viewport.add(Ext.create('innovation.view.Main'));
+
 },
 
     onUpdated: function() {
