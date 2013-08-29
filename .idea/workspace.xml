@@ -4,7 +4,7 @@
     <list default="true" id="9669c4af-8edc-4907-b598-cae3b45739bc" name="Default" comment="" />
     <ignored path="techmarket-st.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9669c4af-8edc-4907-b598-cae3b45739bc" time="1373850834450" ignored="false" />
+    <file path="/Dummy.txt" changelist="9669c4af-8edc-4907-b598-cae3b45739bc" time="1377683819135" ignored="false" />
     <file path="/Main.js" changelist="9669c4af-8edc-4907-b598-cae3b45739bc" time="1373876357306" ignored="false" />
     <file path="$PROJECT_DIR$/../qjtravel/app/view/More.js" changelist="9669c4af-8edc-4907-b598-cae3b45739bc" time="1373595629373" ignored="false" />
     <file path="/More.js" changelist="9669c4af-8edc-4907-b598-cae3b45739bc" time="1373595183155" ignored="false" />
@@ -35,10 +35,10 @@
       <file leaf-file-name="Main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/more/app/view/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="64" selection-start="4817" selection-end="4817" vertical-scroll-proportion="-0.7608371">
+            <state line="94" column="64" selection-start="4820" selection-end="4820" vertical-scroll-proportion="-0.39760837">
               <folding>
-                <marker date="1373876374778" expanded="true" signature="5048:5058" placeholder="..." />
-                <marker date="1373876374778" expanded="true" signature="6620:6630" placeholder="..." />
+                <marker date="1374038899310" expanded="false" signature="5051:5061" placeholder="..." />
+                <marker date="1374038899310" expanded="false" signature="6624:6634" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -73,8 +73,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="195" />
-    <option name="y" value="451" />
+    <option name="x" value="241" />
+    <option name="y" value="34" />
     <option name="width" value="1240" />
     <option name="height" value="868" />
   </component>
@@ -186,8 +186,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../qjtravel" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -235,13 +235,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="451" width="1240" height="868" extended-state="0" />
+    <frame x="241" y="34" width="1240" height="868" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23896752" sideWeight="0.9983766" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23896752" sideWeight="0.9983766" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -317,45 +317,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/more/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1374038899310" expanded="false" signature="5051:5061" placeholder="..." />
+            <marker date="1374038899310" expanded="false" signature="6624:6634" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/home/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="109" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="23" column="109" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="17" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="57" column="17" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="28" selection-start="0" selection-end="7042" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1373876374778" expanded="true" signature="5048:5058" placeholder="..." />
-            <marker date="1373876374778" expanded="true" signature="6620:6630" placeholder="..." />
+            <marker date="1374038899310" expanded="false" signature="5051:5061" placeholder="..." />
+            <marker date="1374038899310" expanded="false" signature="6624:6634" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/resources/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/app/view/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="27" selection-start="31" selection-end="31" vertical-scroll-proportion="0.027536232" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/more/resources/images/go_0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mine/app/Readme.md">
@@ -370,65 +369,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/more/resources/sass/app.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="2" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.6818874">
-          <folding />
-        </state>
+        <state line="47" column="2" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.6818874" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="17" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.36085626">
-          <folding />
-        </state>
+        <state line="57" column="17" selection-start="1763" selection-end="1763" vertical-scroll-proportion="0.36085626" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="24" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.5542522">
-          <folding />
-        </state>
+        <state line="40" column="24" selection-start="1220" selection-end="1220" vertical-scroll-proportion="0.5542522" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/home/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="16" selection-start="688" selection-end="688" vertical-scroll-proportion="0.027859237">
-          <folding />
-        </state>
+        <state line="14" column="16" selection-start="688" selection-end="688" vertical-scroll-proportion="0.027859237" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mine/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="53" selection-start="3379" selection-end="3379" vertical-scroll-proportion="0.028400598">
-          <folding>
-            <marker date="1373621085215" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1373621085215" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="75" column="53" selection-start="3379" selection-end="3379" vertical-scroll-proportion="0.028400598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/app/view/moredetial.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="60" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.028400598">
-          <folding>
-            <marker date="1373619469421" expanded="false" signature="-1:-1" placeholder="..." />
-            <marker date="1373619469421" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="46" column="60" selection-start="1534" selection-end="1534" vertical-scroll-proportion="0.028400598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="131" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.3313783">
-          <folding />
-        </state>
+        <state line="54" column="131" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.3313783" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/more/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="64" selection-start="4817" selection-end="4817" vertical-scroll-proportion="-0.7608371">
+        <state line="94" column="64" selection-start="4820" selection-end="4820" vertical-scroll-proportion="-0.39760837">
           <folding>
-            <marker date="1373876374778" expanded="true" signature="5048:5058" placeholder="..." />
-            <marker date="1373876374778" expanded="true" signature="6620:6630" placeholder="..." />
+            <marker date="1374038899310" expanded="false" signature="5051:5061" placeholder="..." />
+            <marker date="1374038899310" expanded="false" signature="6624:6634" placeholder="..." />
           </folding>
         </state>
       </provider>

@@ -1,3 +1,10 @@
+/**
+ * Created with JetBrains WebStorm.
+ * User: Administrator
+ * Date: 13-8-29
+ * Time: 上午10:22
+ * To change this template use File | Settings | File Templates.
+ */
 Ext.define('innovation.view.Main', {
     extend: 'Ext.tab.Panel',
     xtype: 'main',
@@ -9,7 +16,7 @@ Ext.define('innovation.view.Main', {
         tabBarPosition: 'bottom',
 
         items: [
-            {  xtype: 'toolbar',
+            {   xtype: 'toolbar',
                 ui: 'dark',
                 title: '掌上创新',
                 docked: 'top'
@@ -18,13 +25,14 @@ Ext.define('innovation.view.Main', {
                 xtype: "dataview",
                 data: [
                     {
-                        iconUrl: 'resources/images/icon1.png',
-                        name: '实验室'
+                        xtype:'button',
+                        value:'返回'
                     },
                     {
-                        iconUrl: 'resources/images/icon2.png',
-                        name: '研发中心'
+                        iconUrl: 'resources/images/icon1.png',
+                        name: '实验室'
                     }
+
                 ],
                 scrollable: false,
                 height: '100%',
