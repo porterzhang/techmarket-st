@@ -49,6 +49,11 @@
             }
         }
     </style>
+    <script type="text/javascript">
+        var cordova={exec : function(s,e,n,f,p){
+            console.log( 'call in ' + n + '.' + f +'('+p+')');
+        }}
+    </script>
     <!-- The line below must be kept intact for Sencha Command to build your application -->
     <script id="microloader" type="text/javascript" src="touch/microloader/development.js"></script>
 </head>

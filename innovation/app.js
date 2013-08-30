@@ -26,8 +26,14 @@ Ext.application({
         'Ext.MessageBox'
     ],
 
-    views: [
-        'Main'
+    controllers:[
+        //lilj
+        'Daily'
+    ],
+
+    views: ['Main',
+        //lilj
+        'Daily','DailyDetail','Score'
     ],
 
     icon: {
@@ -53,7 +59,7 @@ Ext.application({
         Ext.fly('appLoadingIndicator').destroy();
 
         // Initialize the main view
-        Ext.Viewport.add(Ext.create('innovation.view.Main'));
+        Ext.Viewport.add(Ext.create('innovation.view.Daily'));
     },
 
     onUpdated: function() {
