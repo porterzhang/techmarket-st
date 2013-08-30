@@ -28,12 +28,11 @@ Ext.application({
 
     controllers:['lab',
         //lilj
-        'Daily'
-    ],
+        'Daily'],
 
     views: ['Main','lab',
         //lilj
-        'Daily','DailyDetail','Score'
+        'Daily','DailyDetail','Score'],
 
 
     icon: {
@@ -60,10 +59,10 @@ Ext.application({
 
         // Initialize the main view
 
+
       Ext.Viewport.add(Ext.create('innovation.view.Main'));
 
 },
-
 
     onUpdated: function() {
         Ext.Msg.confirm(
